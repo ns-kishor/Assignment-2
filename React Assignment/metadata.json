@@ -1,0 +1,6 @@
+{
+  "name": "MovieExplorer",
+  "description": "Discover, search, and explore movies and TV shows from around the world using the TVMaze API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_TVMZE_API"]
+}
